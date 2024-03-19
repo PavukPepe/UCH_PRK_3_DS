@@ -1,0 +1,17 @@
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\bin\Debug\PRACT_LAB_1_DS.exe.config
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\bin\Debug\PRACT_LAB_1_DS.exe
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\bin\Debug\PRACT_LAB_1_DS.pdb
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\PRACT_LAB_1_DS.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\Employeers_page.g.cs
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\MainWindow.g.cs
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\App.g.cs
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\PRACT_LAB_1_DS_MarkupCompile.cache
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\PRACT_LAB_1_DS_MarkupCompile.lref
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\Employeers_page.baml
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\MainWindow.baml
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\PRACT_LAB_1_DS.g.resources
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\PRACT_LAB_1_DS.Properties.Resources.resources
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\PRACT_LAB_1_DS.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\PRACT_LAB_1_DS.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\PRACT_LAB_1_DS.exe
+C:\Users\serge\source\repos\PRACT_LAB_1_DS\PRACT_LAB_1_DS\obj\Debug\PRACT_LAB_1_DS.pdb
